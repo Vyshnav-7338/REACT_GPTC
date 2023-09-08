@@ -1,0 +1,33 @@
+.placementOfficerName {
+    padding-left: 2em;
+    padding-top: 10px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.placementOfficer {
+    padding-left: 1em;
+    color: #2F71B3;
+    font-weight: bold;
+}
+
+.placementDetailsInfo {
+    padding-left: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 1em;
+    text-align: center;
+
+}
+
+.placementOfficerDetails {
+    text-align: center;
+
+}
+
+.text-info {
+    justify-content: center;
+    font-weight: 430;
+}

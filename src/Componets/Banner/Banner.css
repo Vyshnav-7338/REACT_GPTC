@@ -1,0 +1,24 @@
+h1 {
+
+    margin: 0 0 10px 40px;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #2F71B3;
+    font-family: calibri;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.place {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.placementHead {
+    margin-top: 1em;
+    background-color: #EFECEA;
+    text-align: center;
+    font-weight: bold;
+}

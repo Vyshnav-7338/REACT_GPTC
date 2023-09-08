@@ -1,0 +1,60 @@
+.signupParentDiv {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 2em;
+  text-align: center;
+  position: initial;
+  border-radius: 6px;
+  margin: 1em 2em;
+}
+
+.signupParentDiv .input {
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  outline-color: transparent;
+  margin-bottom: 2em;
+  margin-left: 5em;
+  transition: -4s ease-out;
+  width: 50%;
+}
+
+.signupParentDiv label {
+  font-weight: 500;
+}
+
+.signupParentDiv .input:focus {
+  margin-top: 2em;
+  margin-bottom: 1em;
+
+}
+
+.signupParentDiv .textarea {
+  margin-left: 5em;
+  margin-bottom: 2em;
+  margin-top: 1em;
+  transition: -4s ease-out;
+  width: 50%;
+
+}
+
+.signupParentDiv .textarea:focus {
+  margin-top: 2em;
+  margin-bottom: 1em;
+
+}
+
+.signupParentDiv button {
+  width: 40%;
+  height: 48px;
+  margin-top: 2em;
+  background-color: #002f34;
+  color: whitesmoke;
+  font-weight: 900;
+}
+
+.signupParentDiv button:hover {
+  background-color: white;
+  color: #002f34;
+  border: 2px solid #002f34;
+}

@@ -1,0 +1,29 @@
+.logo {
+    height: 70px;
+    margin-left: 20px;
+}
+
+.navbar {
+    background-color: rgb(245, 237, 237);
+}
+
+.Nav {
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    padding-left: 20em;
+    justify-content: space-between;
+}
+
+.Container {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+
+}
+
+.Link {
+    margin-right: 2em;
+    padding: 1em;
+}

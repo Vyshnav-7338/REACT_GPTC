@@ -1,0 +1,42 @@
+.listStudents {
+    padding-top: 2em;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.students {
+    margin-top: 2em;
+}
+
+.studentsCompaineImag {
+    height: 11em;
+    width: 100%;
+
+}
+
+.list-group-flush {
+    justify-content: center;
+}
+
+.link {
+    margin-right: 2.2em;
+}
+
+.cardcc {
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+.studentsCard {
+    height: 9em;
+}
+
+hr {
+    border: 5px solid black;
+    border-radius: 2px;
+    width: 100%;
+}

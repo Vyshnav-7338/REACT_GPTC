@@ -1,0 +1,23 @@
+.linksHead {
+    color: #2F71B3;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.copyRight {
+    background-color: #000;
+    width: 100%;
+    height: 3em;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: #fff;
+    padding-left: 2em;
+    padding-top: 1em;
+    border-radius: 20px;
+}
+
+.footer {
+    margin-left: 2em;
+    text-align: center;
+}
